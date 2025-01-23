@@ -37,3 +37,10 @@ console.log("After dividing by 2:", accountBalance);
 let customerName = "Jack Black"; // Fixed variable name
 let welcomeMessage = "Welcome to our store, " + customerName + ". We are so happy you picked us!";
 console.log(welcomeMessage);
+
+//Task 5
+
+let isloggedIn = true
+if (isloggedIn) {
+    console.log("Welcome back, " + employeename + "!");
+} else {"Please try again" }
